@@ -9,7 +9,7 @@ Assume the input is valid and playing occur only after the setup
 
 - createField - Create a new empty field (without mines)
 - layMine - Lay mine in selected cell (row, col)
-- play - Reveal the selected cell (row, col) using the *[flood fill algorithm](https://en.wikipedia.org/wiki/Flood_fill)*
+- play - Reveal the selected cell (row, col) using the *[flood fill algorithm](https://en.wikipedia.org/wiki/Flood_fill) (**Bonus**)*, or reveal a single cell
 - status - Return the game status => WIN, LOST, PLAYING
 - printField - Print to screen the mine field 
   - Not revealed cell - “.”
