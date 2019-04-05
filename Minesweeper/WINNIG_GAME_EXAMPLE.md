@@ -3,7 +3,7 @@
 game = Minesweeper()
 game.createFeild(3,8)
 game.layMine(1, 1)
-game.layMine(0, 2)
+game.layMine(2, 0)
 
 # game play
 game.printField();
