@@ -2,7 +2,7 @@
 
 Learn TDD using kata
 
-###Requirements
+### Requirements
 User can roll (knock over pins)
 User can get the score after the game is over
 
