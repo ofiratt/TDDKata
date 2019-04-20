@@ -9,7 +9,7 @@ User can get the score after the game is over
 void roll(int pins)<br />
 int score() 
 
-## Bowling Roles
+## Bowling Rules
 
 https://en.wikipedia.org/wiki/Bowling
 
